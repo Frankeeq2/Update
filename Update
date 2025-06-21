@@ -1,5 +1,5 @@
 {
-    "SoftwareVersion": "1.2.74",
+    "SoftwareVersion": "1.2.75",
     "SoftwareUrl":"https://c8646cfef541ce7a451ebd88b9074efb.r2.cloudflarestorage.com/filerift/f95cf09a-02dd-4ab1-8b6b-49bac6d75d08---DemonUpdate.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=43cf367050590a138cc183e7557ba614%2F20250621%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250621T051853Z&X-Amz-Expires=6000&X-Amz-Signature=e092a03e606593a86ba2686c701e0b995cf3834a0683402390e048a169e2a9c4&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22DemonUpdate.7z%22&x-id=GetObject",
     "Status":"True",
     "Changelog":"[+] auto update"
